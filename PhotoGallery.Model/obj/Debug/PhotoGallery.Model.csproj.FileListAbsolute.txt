@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2012\Projects\Galerie\Galerie.Model\bin\Debug\PhotoGallery.Model.dll.config
+D:\Documents\Visual Studio 2012\Projects\Galerie\Galerie.Model\bin\Debug\PhotoGallery.Model.dll
+D:\Documents\Visual Studio 2012\Projects\Galerie\Galerie.Model\bin\Debug\PhotoGallery.Model.pdb
+D:\Documents\Visual Studio 2012\Projects\Galerie\Galerie.Model\bin\Debug\EntityFramework.dll
+D:\Documents\Visual Studio 2012\Projects\Galerie\Galerie.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\Visual Studio 2012\Projects\Galerie\Galerie.Model\bin\Debug\EntityFramework.xml
+D:\Documents\Visual Studio 2012\Projects\Galerie\Galerie.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\Visual Studio 2012\Projects\Galerie\Galerie.Model\obj\Debug\PhotoGallery.Model.dll
+D:\Documents\Visual Studio 2012\Projects\Galerie\Galerie.Model\obj\Debug\PhotoGallery.Model.pdb
