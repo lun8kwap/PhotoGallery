@@ -13,8 +13,7 @@ namespace PhotoGallery.Web.Controllers
         // GET: /Home/
         public ActionResult Index()
         {
-            PhotoGalleryContext pgc = new PhotoGalleryContext();
-            return View(pgc.Albums.ToList());
+            return View();
         }
 	}
 }
